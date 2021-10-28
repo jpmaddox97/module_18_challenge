@@ -1,6 +1,6 @@
-## PyChain!
+# PyChain Blockchain!
 
-# A working PyChain blockchain
+## A working PyChain blockchain
 
 This code replicates the theory behind a working blockchain. 
 
